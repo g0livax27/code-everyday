@@ -7,7 +7,6 @@
 ////////////////
 // Palindrome \\
 ////////////////
-
 // --- Directions
 // Given a string, return true if the string is a palindrome
 // or false if it is not.  Palindromes are strings that
@@ -22,3 +21,19 @@ function palindrome(str) {
 };
 
 console.log(palindrome('kayak'));
+
+
+//////////////
+// Max Char \\
+//////////////
+// --- Directions
+// Given a string, return the character that is most
+// commonly used in the string.
+// --- Examples
+// maxChar("abcccccccd") === "c"
+// maxChar("apple 1231111") === "1"
+
+// function maxChar(str) {
+//     let maxArr = str.split('')
+//     for (let i = 0; i < str.length; i++)
+// };
