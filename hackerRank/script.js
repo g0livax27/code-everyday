@@ -1,1 +1,1 @@
-<h1>Hacker Rank Code Challenges</h1>
+{/* <h1>Hacker Rank Code Challenges</h1> */ }

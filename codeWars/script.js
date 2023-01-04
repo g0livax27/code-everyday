@@ -1,6 +1,6 @@
-<h1>Code Wars Challenges</h1>
+{/* <h1>Code Wars Challenges</h1> */ }
 
-//////////////////////
+///////////////////////
 // Day 001 - June 13 \\
 ///////////////////////
 
@@ -22,3 +22,13 @@ function toJadenCase(jadenTweet) {
 };
 
 console.log(toJadenCase('how can mirrors be real if our eyes aren\'t real'));
+
+
+
+///////////////////////
+// Day 002 - June 14 \\
+///////////////////////
+
+//////////////////////////////
+// Get the Middle Character //
+//////////////////////////////
